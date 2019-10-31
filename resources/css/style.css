@@ -11,9 +11,31 @@ h1 {
 	font-weight: 400;
 }
 
+h2 {
+	color: white;
+	font-family: verdana, sans-serif;
+	font-weight: 300;
+	font-size: 42px;
+}
+
+h3 {
+	color: gray;
+	font-family: verdana, sans-serif;
+	font-size: 21px;
+	font-weight: 400;
+	
+}
+
 h4 {
 	color: aquamarine;
 	font-family: verdana, sans-serif;
 	font-weight: 400;
 	text-decoration: underline;
+}
+
+
+footer {
+	text-align: right;
+	font-family: verdana, sans-serif;
+	color: gray;
 }
